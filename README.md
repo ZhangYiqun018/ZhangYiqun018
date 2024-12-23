@@ -1,5 +1,9 @@
 <h1>👾Hi, I'm Yiqun Zhang. </h1>
 <p>A NLP doctoral student from NEU, China.</p>
+
+[![Zhang Yiqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYiqun018)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
