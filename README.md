@@ -1,7 +1,7 @@
 <h1>👾Hi, I'm Yiqun Zhang. </h1>
 <p>A NLP doctoral student from NEU, China.</p>
 
-[![Zhang Yiqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYiqun018)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhang Yiqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYiqun018&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
